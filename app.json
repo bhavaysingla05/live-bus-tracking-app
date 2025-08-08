@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Live Bus Tracking",
+    "slug": "live-bus-tracking",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.bhavaysingla05.livebustracking"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "acb1a70b-0bb9-48a0-a693-352191e84bc9"
+      }
+    }
+  }
+}
